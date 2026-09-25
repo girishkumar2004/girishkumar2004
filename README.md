@@ -24,5 +24,10 @@
 ---
 [![](https://komarev.com/ghpvc/?username=girishkumar2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img width="880" height="192" alt="github-user-contribution" src="https://github.com/user-attachments/assets/998e8598-6c0c-4cf9-9890-9b59ede976cc" />
+## 🐍 Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/girishkumar2004/girishkumar2004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/girishkumar2004/girishkumar2004/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/girishkumar2004/girishkumar2004/output/github-contribution-grid-snake.svg">
+</picture>
